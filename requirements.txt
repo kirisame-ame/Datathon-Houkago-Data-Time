@@ -1,8 +1,10 @@
+accelerate==1.8.1
 asttokens==3.0.0
 certifi==2025.7.9
 charset-normalizer==3.4.2
 colorama==0.4.6
 comm==0.2.2
+datasets==4.0.0
 debugpy==1.8.14
 decorator==5.2.1
 executing==2.2.0
@@ -35,10 +37,13 @@ pyzmq==27.0.0
 regex==2024.11.6
 requests==2.32.4
 safetensors==0.5.3
+scikit-learn==1.6.0
+scipy==1.14.1
 six==1.17.0
 stack-data==0.6.3
 tokenizers==0.21.2
 tornado==6.5.1
+torch==2.6.0+cu118
 tqdm==4.67.1
 traitlets==5.14.3
 transformers==4.53.1
